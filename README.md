@@ -46,6 +46,7 @@ This project collects and organizes system prompts from various mainstream LLMs,
 - 各家官方系统提示的公开版本：[Anthropic 系统提示发布页](https://platform.claude.com/docs/en/release-notes/system-prompts)
 - Agent 时代"系统提示"的新形态——`SKILL.md`（[Agent Skills 开放标准](https://agentskills.io/)）、`CLAUDE.md` / `AGENTS.md` 项目记忆文件、[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) 的提示分节（prompt sections）插件
 - 提示写法：[LangGPT 结构化提示词](https://github.com/langgptai/LangGPT)、[DeepSeek V4 思考模式提示技巧](https://github.com/EmbraceAGI/awesome-chatgpt-zh/blob/main/docs/ChatGPT_prompts.md#deepseek-v4-思考模式提示技巧)
+- 提示工程与系统提示生成工具：[DeepSeek Prompt Generator](https://deepseek.pacebowl.com/)（针对 DeepSeek R1/V3/V4 结构化 XML 提示词、思维链 CoT 规则与角色模板的免费在线生成器）
 
 ## 🚀 如何使用 | How to Use
 
